@@ -53,8 +53,8 @@ export const List = () => {
             Add book
           </button>
           <div className="py-10">
-            {books.map((books: BookType) => {
-              const { id, title, category, price } = books;
+            {books.map((book: BookType) => {
+              const { id, title, category, price } = book;
               return (
                 <div
                   key={id}
@@ -65,7 +65,7 @@ export const List = () => {
                   </span>
                   <h2
                     className="flex-auto cursor-pointer py-5 text-lg font-semibold group-hover:text-blue-800"
-                    onClick={() => openModalDetail(books)}
+                    onClick={() => openModalDetail(book)}
                   >
                     {title}
                   </h2>

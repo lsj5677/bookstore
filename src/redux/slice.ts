@@ -42,8 +42,7 @@ export const addBook = createAsyncThunk(
   async (bookData: BookType, thunkAPI) => {
     try {
       const res = await _addNewBook(bookData);
-      const sortItems = res?.data.sort(sortByCreatedAt);
-      return thunkAPI.fulfillWithValue(sortItems);
+      return thunkAPI.fulfillWithValue(res?.data);
     } catch (error) {
       thunkAPI.rejectWithValue(error);
     }
@@ -94,7 +93,7 @@ const booksSlice = createSlice({
         state.error = action.payload;
       })
       .addCase(addBook.fulfilled, (state, action) => {
-        state.books = [...state.books, action.payload];
+        state.books = [...state.books, action.payload].sort(sortByCreatedAt);
       });
   },
 });
