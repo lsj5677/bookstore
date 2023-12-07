@@ -1,0 +1,100 @@
+{
+  "books": [
+    {
+      "id": "1abc",
+      "price": 20,
+      "title": "Things Fall Apart",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "2abc",
+      "price": 15,
+      "title": "Fairy tales",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "3abc",
+      "price": 18,
+      "title": "The Divine Comedy",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Comedy",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "4abc",
+      "price": 22,
+      "title": "The Epic Of Gilgamesh",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "5abc",
+      "price": 30,
+      "title": "The Book Of Job2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Young adult",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "6abc",
+      "price": 23,
+      "title": "One Thousand and One Nights",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Mystery",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "7abc",
+      "price": 22,
+      "title": "Njál's Saga",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "8abc",
+      "price": 30,
+      "title": "Pride and Prejudice",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fantasy",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "9abc",
+      "price": 10,
+      "title": "Le Père Goriot123",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "10abc",
+      "price": 14,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "11abc",
+      "price": 20,
+      "title": "The Decameron",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "category": "Fiction",
+      "createdAt": "2023-12-07T05:39:36.197Z"
+    },
+    {
+      "id": "R8U0dJ6GHguuYmwQp0RUD",
+      "createdAt": "2023-12-07T05:57:24.125Z",
+      "title": "Test Book",
+      "description": "This is test book data.",
+      "category": "Test",
+      "price": "30"
+    }
+  ]
+}
